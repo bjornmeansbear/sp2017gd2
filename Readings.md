@@ -1,11 +1,7 @@
 # Reading Ideas so far:
 
 - The Web's Grain by Frank Chimero: <http://frankchimero.com/writing/the-webs-grain/> and <https://vimeo.com/122880890>
-- The Bifocal Display: <https://www.youtube.com/watch?v=DaF5brrdpJw>
 - The Dao of Web Design by John Allsop: <http://alistapart.com/article/dao>
-- <https://www.theatlantic.com/technology/archive/2016/12/quotation-mark-wars/511766/>
-- <http://www.shadycharacters.co.uk/>
-- <http://printingfilms.com/>
 - <https://blog.prototypr.io/now-i-get-it-b97b022a380c#.3b9txxi34>
 - <https://blog.prototypr.io/interaction-design-is-dead-what-now-db09d77cadae#.4acpr98vi>
 - An explanation of ems: <https://24ways.org/2005/an-explanation-of-ems>
@@ -36,6 +32,10 @@
 - Responsive Deliverables: <http://daverupert.com/2013/04/responsive-deliverables/>
 - By Experimenting with Grid-based Conventions, NODE Makes Design Portfolio Sites Exciting Again: <http://eyeondesign.aiga.org/node-challenges-the-convention-of-grid-based-web-design/>
 
+## Videos:
+
+- The Bifocal Display: <https://www.youtube.com/watch?v=DaF5brrdpJw>
+
 ## Other links:
 
 - Meet the ipsums: <http://meettheipsums.com/>
@@ -47,3 +47,7 @@
 - Unsplash.it: <https://unsplash.it/>
 - Source.Unsplash.com: <https://source.unsplash.com/>
 - Small Victories: <http://www.smallvictori.es/>
+- <https://www.theatlantic.com/technology/archive/2016/12/quotation-mark-wars/511766/>
+- <http://www.shadycharacters.co.uk/>
+- <http://printingfilms.com/>
+
