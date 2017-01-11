@@ -29,6 +29,12 @@
 - Take your Talent to the Web by Zeldman: <http://www.zeldman.com/2009/04/16/taking-your-talent-to-the-web-is-now-a-free-downloadable-book-from-zeldmancom/>
 - Our New Shrines by Craig Mod: <http://contentsmagazine.com/articles/our-new-shrines/>
 - 10 Commandments of Modern Web Design: <https://www.lullabot.com/articles/10-commandments-of-modern-web-design>
+- Developing UI: <http://mrmrs.io/writing/2016/04/21/developing-ui/>
+- Paragraphs on Conceptual Art: <http://emerald.tufts.edu/programs/mma/fah188/sol_lewitt/paragraphs%20on%20conceptual%20art.htm>
+- Walter Benajamin The Work of Art in the Age of Mechanical Reproduction: <https://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm>
+- Pure-UI: <https://rauchg.com/2015/pure-ui>
+- Responsive Deliverables: <http://daverupert.com/2013/04/responsive-deliverables/>
+- By Experimenting with Grid-based Conventions, NODE Makes Design Portfolio Sites Exciting Again: <http://eyeondesign.aiga.org/node-challenges-the-convention-of-grid-based-web-design/>
 
 ## Other links:
 
@@ -40,3 +46,4 @@
 - HTML Entities: <https://dev.w3.org/html5/html-author/charref>
 - Unsplash.it: <https://unsplash.it/>
 - Source.Unsplash.com: <https://source.unsplash.com/>
+- Small Victories: <http://www.smallvictori.es/>
