@@ -25,6 +25,10 @@
 - A Bunch of Hamburgery menu things: <http://jxnblk.com/writing/posts/an-update-on-the-hamburger-menu/> and <http://jxnblk.com/writing/posts/hamburgers-and-basements-why-not-to-use-left-nav-flyouts/>
 - Everything is a component: <http://jxnblk.com/writing/posts/components/>
 - Mathematical Web Type: <http://jxnblk.com/writing/posts/mathematical-web-typography/>
+- House of Cards by Robin Sloan: <http://contentsmagazine.com/articles/house-of-cards/>
+- Take your Talent to the Web by Zeldman: <http://www.zeldman.com/2009/04/16/taking-your-talent-to-the-web-is-now-a-free-downloadable-book-from-zeldmancom/>
+- Our New Shrines by Craig Mod: <http://contentsmagazine.com/articles/our-new-shrines/>
+- 10 Commandments of Modern Web Design: <https://www.lullabot.com/articles/10-commandments-of-modern-web-design>
 
 ## Other links:
 
@@ -32,4 +36,7 @@
 - Float CSS Properties <http://www.w3schools.com/cssref/pr_class_float.asp>
 - All About Floats: <https://css-tricks.com/all-about-floats/>
 - CSS Floats 101: <http://alistapart.com/article/css-floats-101>
-- <http://hellohappy.org/beautiful-web-type/>
+- Beautiful Web Type: <http://chad.is/beautiful-web-type/> and <https://github.com/ubuwaits/beautiful-web-type>
+- HTML Entities: <https://dev.w3.org/html5/html-author/charref>
+- Unsplash.it: <https://unsplash.it/>
+- Source.Unsplash.com: <https://source.unsplash.com/>
