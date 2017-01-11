@@ -31,6 +31,7 @@ Variations on a theme:
   - play w/ static, absolute, relative and fixed... what are the rules? what are the constraints? what's the point?
 
 2. Backgrounds -- see background-hijinks, but there could be other stuff...
+
 3. Responsive
 
   - skinny < to > wide
@@ -38,6 +39,7 @@ Variations on a theme:
   - could we use responsiveness to make animations? like really small iterative changes as a screen gets bigger almost frame-by-frame kind of stuff?
 
 4. CSS Transformations - how to play with rotate, skew, etc. in interesting ways? how does this teach us better design skills on top of just learning the CSS?
+
 5. Menus
 
   - Down with the Hamburger! What are alternatives we can come up w/ for lessening the scale/size/hierarchy of menus for smaller screens?
@@ -49,3 +51,15 @@ Variations on a theme:
   - how to see modules?
   - how to see systems?
   - again, don't quite know what a "wireframe game" is yet, but a place to start pondering...
+
+7. :Hover
+
+  - there is so much this could do probably...
+  - totally change what's there, reveal extra content, think about the ways this affects interactions?
+
+8. Something about grids/layouts
+
+  - grid systems?
+  - replicate something?
+
+9. HTML/CSS Poster > not a game as much a small assignment. Maybe after we play around with some typography and CSS transforms then this is a good week or two long assignment for outside of class? think of the browser as a poster medium? is that what a lot of websites are basically like now?
