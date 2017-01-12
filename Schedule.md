@@ -16,9 +16,9 @@ wk5: tbd
 
 wk6: tbd
 
-wk7: tbd
+wk7: MidTerm Assessment for 1/2 class
 
-wk8: tbd
+wk8: MidTerm Assessment for other 1/2 class
 
 wk9 _Spring Break_
 
