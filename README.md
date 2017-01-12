@@ -63,6 +63,7 @@ I'd love to have 14 of these if we can — try to have 1 mini project for every 
   - there is so much this could do probably...
   - totally change what's there, reveal extra content, think about the ways this affects interactions?
   - What other kinds of interactions can be turned into something like this? Clicks? scrolling?
+    * what about something that explores how someone knows where to click? Hierarchy of interactions? what's important when I'm trying to figure out the required interaction to proceed?
 
 8. Something about grids/layouts
 
