@@ -30,6 +30,8 @@ Variations on a theme:
 
 ## Other things that could be "games"
 
+I'd love to have 14 of these if we can — try to have 1 mini project for every class minus the two weeks we miss (MLK day and Spring Break). Cool set of exercises to have under one's belt.
+
 1. positioning
 
   - play w/ static, absolute, relative and fixed... what are the rules? what are the constraints? what's the point?
