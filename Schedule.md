@@ -23,9 +23,9 @@ wk8: tbd
 wk9 _Spring Break_
 
 wk10: Introduce final project — something to do with templating an API feed (this is pretty advanced, but I want to figure out how to make it work!)
-  * Do the behance api based on some other things I've been working on
-  * will allow students to use Tumblr or something else if they want too...
-    - could spin this into a bucnh of small demos and games over the next couple weeks to show different aspects of what's what
+  - Do the behance api based on some other things I've been working on
+  - will allow students to use Tumblr or something else if they want too...
+  - could spin this into a bunch of small demos and games over the next couple weeks to show different aspects of what's what
 
 wk11: tbd
 
