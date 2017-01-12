@@ -2,6 +2,8 @@
 
 Graphic Design 2 Files, Spring 2017
 
+Figuring out a schedule in `Schedule.md` & trying to plan some readings in `Readings.md`
+
 Here are a bunch of code ideas for running through with students for the purposes of demos, projects, etc. Ideas for reading assignments to accompany some of these things can be found in Readings.md
 
 Some things I've worked on in the past:
