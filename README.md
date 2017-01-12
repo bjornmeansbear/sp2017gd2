@@ -67,3 +67,6 @@ Variations on a theme:
   - replicate something?
 
 9. HTML/CSS Poster > not a game as much a small assignment. Maybe after we play around with some typography and CSS transforms then this is a good week or two long assignment for outside of class? think of the browser as a poster medium? is that what a lot of websites are basically like now?
+
+10. The Inspector!
+  - how to use the inspector? turn this into something fun — we'll mess around with the HTML and CSS of webpages?
