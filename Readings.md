@@ -6,13 +6,15 @@
 - Paragraphs on Conceptual Art: <http://emerald.tufts.edu/programs/mma/fah188/sol_lewitt/paragraphs%20on%20conceptual%20art.htm>
 - House of Cards by Robin Sloan: <http://contentsmagazine.com/articles/house-of-cards/>
 - What the Web is For: <http://bradfrost.com/blog/post/what-is-the-web-for/>
+- Peter Bilak on Web Typography: <http://htmloutput.risd.gd/interview-bilak/>
 
 ## Videos:
 
 - The Bifocal Display: <https://www.youtube.com/watch?v=DaF5brrdpJw>
-— The Internet Is Our Global Canvass - Rafael Rozendaal | SDF2016: <https://www.youtube.com/watch?v=JztgX_ETdv0>
+- The Internet Is Our Global Canvass - Rafael Rozendaal | SDF2016: <https://www.youtube.com/watch?v=JztgX_ETdv0>
 
 ## Stuff that I think is interesting, but maybe not good for GD2:
+
 - Responsive Web Design: <http://alistapart.com/article/responsive-web-design>
 - Atomic Design: <http://atomicdesign.bradfrost.com/table-of-contents/>
 - A Brief History of Markup: <http://alistapart.com/article/a-brief-history-of-markup>

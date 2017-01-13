@@ -15,6 +15,7 @@ wk2: all sorts of intros
   - Make something!
 
 - Introduce Lyrical Grid project
+
 - reading: read [_The Web's Grain_](http://frankchimero.com/writing/the-webs-grain/) (provide some reading response questions?)
 - homework: start "Lyrical Grid"
 
@@ -31,7 +32,7 @@ wk4: More Grids? Stripes?
 wk5: Using semantic HTML tags? Using CSS transforms?
 
 - View lyrical grid projects in class
-- start Long Scroll projects
+- start Project 2
 
 wk6: Font properties? Wireframes?
 
