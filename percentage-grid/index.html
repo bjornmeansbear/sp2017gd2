@@ -12,90 +12,94 @@
 
     <style>
       /** put your custom CSS here, or in the "editme.css" file **/
+      .cover {
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+      .image1 {
+        background-image: url('https://source.unsplash.com/random/1200x1200');
+      }
+      .image2 {
+        background-image: url('https://source.unsplash.com/random/600x600');
+      }
+      .image3 {
+        background-image: url('https://source.unsplash.com/random/700x700');
+      }
+      .image4 {
+        background-image: url('https://source.unsplash.com/random/800x800');
+      }
     </style>
-    
+
     <!-- this file should also be here, you can throw your CSS in there if its easier. -->
     <link href="editme.css" rel="stylesheet" type="text/css" />
-    
+
   </head>
 
   <body>
-
-    <!-- grabbed some images from here: https://unsplash.it/ just to show how images might fit in... -->
-
     <!-- this outer most <div> determines the width for everything -->
-    <div class="the outer container">
-      <div class="a fifty percent wide block"></div>
-      <div class="a fifty percent wide block">
-        <div class="a twenty five percent wide block"></div>
-        <div class="a fifty percent wide block">
-          <img src="https://unsplash.it/200" />
-        </div>
-        <div class="a fifty percent wide block"></div>
-        <div class="a fifty percent wide block"></div>
+    <div class="wrapper">
+      <!-- all these inner divs use the percentages.css file for their height and width /nesting -->
+      <div class="half block image1 cover"></div>
+      <div class="half block">
+        <div class="quarter block image2 cover"></div>
+        <div class="half block image1"></div>
+        <div class="half block"></div>
+        <div class="half block"></div>
       </div>
-      <div class="a twenty five percent wide block"></div>
-      <div class="a twenty five percent wide block">
-        <img src="https://unsplash.it/400" />
-      </div>
-      <div class="a twenty five percent wide block"></div>
-      <div class="a twenty five percent wide block">
-        <div class="a fifty percent wide block">
-          <img src="https://unsplash.it/202" />
-          <div class="a fifty percent wide block">
-            <div class="a twenty five percent wide block">
-              <img src="https://unsplash.it/201" />
-            </div>
-            <div class="a fifty percent wide block">
-              <div class="a twenty five percent wide block"></div>
-              <div class="a twenty five percent wide block"></div>
-              <div class="a twenty five percent wide block"></div>
-              <div class="a twenty five percent wide block"></div>
+      <div class="quarter block image1 cover"></div>
+      <div class="quarter block image1"></div>
+      <div class="quarter block"></div>
+      <div class="quarter block">
+        <div class="half block">
+          <div class="half block">
+            <div class="quarter block image1 cover"></div>
+            <div class="half block">
+              <div class="quarter block image2 cover"></div>
+              <div class="quarter block image1 cover"></div>
+              <div class="quarter block image1"></div>
+              <div class="quarter block"></div>
             </div>
           </div>
         </div>
       </div>
-      <div class="a fifty percent wide block">
-        <div class="a fifty percent wide block">
-          <div class="a twenty five percent wide block">
-            <img src="https://unsplash.it/305" />
-          </div>
+      <div class="half block image2 cover">
+        <div class="half block">
+          <div class="quarter block"></div>
         </div>
       </div>
-      <div class="a fifty percent wide block"></div>
-      <div class="a fifty percent wide block"></div>
-      <div class="a fifty percent wide block">
-        <div class="a fifty percent wide block">
-          <div class="a fifty percent wide block"></div>
+      <div class="half block"></div>
+      <div class="half block image1 cover"></div>
+      <div class="half block">
+        <div class="half block">
+          <div class="half block"></div>
         </div>
-        <div class="a fifty percent wide block">
-          <div class="a twenty five percent wide block"></div>
-          <div class="a twenty five percent wide block"></div>
-          <div class="a twenty five percent wide block"></div>
-          <div class="a twenty five percent wide block"></div>
-          <div class="a twenty five percent wide block">
-            <div class="a fifty percent wide block"></div>
+        <div class="half block">
+          <div class="quarter block image2 cover"></div>
+          <div class="quarter block"></div>
+          <div class="quarter block"></div>
+          <div class="quarter block image2"></div>
+          <div class="quarter block">
+            <div class="half block"></div>
           </div>
-          <div class="a twenty five percent wide block"></div>
-          <div class="a twenty five percent wide block">
-            <img src="https://unsplash.it/302" />
-          </div>
+          <div class="quarter block image2 cover"></div>
+          <div class="quarter block"></div>
         </div>
       </div>
-      <div class="a fifty five percent wide block">
-        <div class="a twenty five percent wide block"></div>
-        <div class="a twenty five percent wide block"></div>
-        <div class="a twenty five percent wide block"></div>
-        <div class="a twenty five percent wide block"></div>
+      <div class="half block image3 cover">
+        <div class="quarter block image2"></div>
+        <div class="quarter block image1"></div>
+        <div class="quarter block image3 cover"></div>
+        <div class="quarter block image4"></div>
       </div>
-      <div class="a twenty five percent wide block"></div>
-      <div class="a twenty five percent wide block"></div>
-      <div class="a twenty five percent wide block"></div>
-      <div class="a twenty five percent wide block"></div>
-      <div class="a twenty five percent wide block"></div>
-      <div class="a twenty five percent wide block"></div>
-      <div class="a twenty five percent wide block"></div>
-       <div class="a twenty five percent wide block"></div>
+      <div class="quarter block"></div>
+      <div class="quarter block"></div>
+      <div class="quarter block"></div>
+      <div class="quarter block"></div>
+      <div class="quarter block"></div>
+      <div class="quarter block"></div>
+      <div class="quarter block"></div>
+      <div class="quarter block"></div>
     </div>
 
   </body>

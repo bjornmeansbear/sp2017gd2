@@ -30,7 +30,7 @@ Variations on a theme:
 
 ## Other things that could be "games"
 
-I'd love to have 14 of these if we can — try to have 1 mini project for every class minus the two weeks we miss (MLK day and Spring Break). Cool set of exercises to have under one's belt.
+I'd love to have 14 of these if we can -- try to have 1 mini project for every class minus the two weeks we miss (MLK day and Spring Break). Cool set of exercises to have under one's belt.
 
 1. positioning
 
@@ -63,7 +63,10 @@ I'd love to have 14 of these if we can — try to have 1 mini project for every 
   - there is so much this could do probably...
   - totally change what's there, reveal extra content, think about the ways this affects interactions?
   - What other kinds of interactions can be turned into something like this? Clicks? scrolling?
-    * what about something that explores how someone knows where to click? Hierarchy of interactions? what's important when I'm trying to figure out the required interaction to proceed?
+
+    - what about something that explores how someone knows where to click? Hierarchy of interactions? what's important when I'm trying to figure out the required interaction to proceed?
+
+  - <http://www.lilimaya.net/temp/> Aha! here are some things that could be utilized in regards to thinking about :hover AND CSS3 transforms, animations, etc.
 
 8. Something about grids/layouts
 
@@ -73,4 +76,5 @@ I'd love to have 14 of these if we can — try to have 1 mini project for every 
 9. HTML/CSS Poster > not a game as much a small assignment. Maybe after we play around with some typography and CSS transforms then this is a good week or two long assignment for outside of class? think of the browser as a poster medium? is that what a lot of websites are basically like now?
 
 10. The Inspector!
-  - how to use the inspector? turn this into something fun — we'll mess around with the HTML and CSS of webpages?
+
+  - how to use the inspector? turn this into something fun -- we'll mess around with the HTML and CSS of webpages?
