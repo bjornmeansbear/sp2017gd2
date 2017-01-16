@@ -7,6 +7,8 @@
 - House of Cards by Robin Sloan: <http://contentsmagazine.com/articles/house-of-cards/>
 - What the Web is For: <http://bradfrost.com/blog/post/what-is-the-web-for/>
 - Peter Bilak on Web Typography: <http://htmloutput.risd.gd/interview-bilak/>
+- Jason Pamental talks with Ojus Doshi: <http://htmloutput.risd.gd/interview-pamental/>
+- Ben Pieratt talks with Lukas WinklerPrins: <http://htmloutput.risd.gd/interview-pieratt/>
 
 ## Videos:
 
