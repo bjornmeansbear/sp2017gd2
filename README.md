@@ -58,7 +58,7 @@ I'd love to have 14 of these if we can -- try to have 1 mini project for every c
   - how to see systems?
   - again, don't quite know what a "wireframe game" is yet, but a place to start pondering...
 
-7. :Hover
+7. :Hover (general interatcions? +scroll?, +clicking?)
 
   - there is so much this could do probably...
   - totally change what's there, reveal extra content, think about the ways this affects interactions?
@@ -67,6 +67,8 @@ I'd love to have 14 of these if we can -- try to have 1 mini project for every c
     - what about something that explores how someone knows where to click? Hierarchy of interactions? what's important when I'm trying to figure out the required interaction to proceed?
 
   - <http://www.lilimaya.net/temp/> Aha! here are some things that could be utilized in regards to thinking about :hover AND CSS3 transforms, animations, etc.
+
+  - The main interactions: scroll, hover, and actually clicking something? Oh! actually, scrolling and clicking are probably good for cross device thinking, since :hover isn't really a thing on touch screens. One big one column scroll is a nice cross device interface to play with...
 
 8. Something about grids/layouts
 

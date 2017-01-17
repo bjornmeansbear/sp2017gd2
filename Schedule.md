@@ -8,6 +8,10 @@ wk2: all sorts of intros
 - watch bifocal display
 - everyone makes figma, github, and codepen accounts
 - Make something w/ just HTML tags
+- Look at people's websites they brought? (first half)
+
+Lunch?
+
 - Background Hijinks in-class project
 
   - explain basics of coding » a few basic HTML tags (maybe we use codepen for this?)
@@ -17,11 +21,13 @@ wk2: all sorts of intros
 - Introduce Lyrical Grid project
 
 - reading: read [_The Web's Grain_](http://frankchimero.com/writing/the-webs-grain/) (provide some reading response questions?)
+
 - homework: start "Lyrical Grid"
 
 wk3: Grid basics
 
 - discuss [_The Web's Grain_](http://frankchimero.com/writing/the-webs-grain/) (provide some reading response questions?)
+- Look at people's websites they brought? (first half)
 - Part 1 of lyrical grid is due, start work on part 2
 - watch Rafael Rosendahl lecture
 

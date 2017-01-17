@@ -1,11 +1,11 @@
 # Reading Ideas:
 
+- What the Web is For: <http://bradfrost.com/blog/post/what-is-the-web-for/>
 - The Web's Grain by Frank Chimero: <http://frankchimero.com/writing/the-webs-grain/> and <https://vimeo.com/122880890>
 - The Dao of Web Design by John Allsop: <http://alistapart.com/article/dao>
 - Walter Benajamin The Work of Art in the Age of Mechanical Reproduction: <https://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm>
 - Paragraphs on Conceptual Art: <http://emerald.tufts.edu/programs/mma/fah188/sol_lewitt/paragraphs%20on%20conceptual%20art.htm>
 - House of Cards by Robin Sloan: <http://contentsmagazine.com/articles/house-of-cards/>
-- What the Web is For: <http://bradfrost.com/blog/post/what-is-the-web-for/>
 - Peter Bilak on Web Typography: <http://htmloutput.risd.gd/interview-bilak/>
 - Jason Pamental talks with Ojus Doshi: <http://htmloutput.risd.gd/interview-pamental/>
 - Ben Pieratt talks with Lukas WinklerPrins: <http://htmloutput.risd.gd/interview-pieratt/>
@@ -17,6 +17,7 @@
 
 ## Stuff that I think is interesting, but maybe not good for GD2:
 
+- Programming Design Systems: <https://programmingdesignsystems.com/introduction/>
 - Responsive Web Design: <http://alistapart.com/article/responsive-web-design>
 - Atomic Design: <http://atomicdesign.bradfrost.com/table-of-contents/>
 - A Brief History of Markup: <http://alistapart.com/article/a-brief-history-of-markup>
