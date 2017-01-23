@@ -14,6 +14,7 @@
 
 - The Bifocal Display: <https://www.youtube.com/watch?v=DaF5brrdpJw>
 - The Internet Is Our Global Canvass - Rafael Rozendaal | SDF2016: <https://www.youtube.com/watch?v=JztgX_ETdv0>
+- Dark Patterns talk: <http://darkpatterns.org/>
 
 ## Stuff that I think is interesting, but maybe not good for GD2:
 
