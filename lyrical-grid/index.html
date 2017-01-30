@@ -1,0 +1,167 @@
+<!doctype html>
+<html>
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Assignment 1: Lyrical Grid</title>
+
+    <!-- leave this CSS file alone -->
+    <link href="percentages.css" rel="stylesheet" type="text/css" />
+
+    <style>
+      /** some custom colors, etc. You can do this same thing with whatever you need. Delete my starter junk **/
+      /********* color modules **********/
+      .bg-pink               { background-color: rgba(236,064,121,1); }
+      .bg-brown              { background-color: rgba(047,041,038,1); }
+      .bg-gray               { background-color: rgba(132,132,120,1); }
+      .bg-darkgray           { background-color: rgba(096,103,103,1); }
+      .bg-lightgray          { background-color: rgba(194,211,186,1); }
+      .bg-red                { background-color: rgba(183,080,081,1); }
+      .bg-orange             { background-color: rgba(195,115,099,1); }
+      .bg-yellow             { background-color: rgba(197,192,101,1); }
+      .bg-green              { background-color: rgba(140,165,115,1); }
+      .bg-blue               { background-color: rgba(157,178,176,1); }
+      .bg-purple             { background-color: rgba(174,139,164,1); }
+      .bg-black              { background-color: rgba(000,000,000,1); }
+      .bg-white              { background-color: rgba(255,255,255,1); }
+
+      /** put your custom CSS here, or create and link to your own new css file **/
+      .cover {
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+      .image1 {
+        background-image: url('img/2016-02-12-1-sustainableaesthetics.jpg');
+      }
+      .image2 {
+        background-image: url('img/2016-02-15-sustainableaesthetics2.jpg');
+      }
+      .image3 {
+        background-image: url('img/2016-02-15-sustainableaesthetics3.jpg');
+      }
+      .image4 {
+        background-image: url('img/2016-02-16-entropy.jpg');
+      }
+      .image5 {
+        background-image: url('img/2016-03-03.jpg');
+      }
+      .image6 {
+        background-image: url('img/2016-03-18.jpg');
+      }
+      .image7 {
+        background-image: url('img/2016-03-182.jpg');
+      }
+      .image8 {
+        background-image: url('img/2016-03-183.jpg');
+      }
+      .image9 {
+        background-image: url('img/2016-03-184.jpg');
+      }
+      .image10 {
+        background-image: url('img/2016-03-185.jpg');
+      }
+      .image11 {
+        background-image: url('img/2016-03-186.jpg');
+      }
+      .image12 {
+        background-image: url('img/2016-03-187.jpg');
+      }
+    </style>
+
+  </head>
+
+  <body>
+    <!-- this outer most <div> determines the width for everything -->
+    <div class="wrapper">
+      <!-- all these inner divs use the percentages.css file for their height and width /nesting -->
+
+      <!-- this one goes all the way across -->
+      <div class="block image1 cover"></div>
+
+      <!-- this is only half width, plus it contains children... -->
+      <div class="half block">
+        <div class="half block image1 cover">
+          <p>We'll eventually get to Text</p>
+        </div>
+        <div class="half block bg-yellow"></div>
+        <div class="half block bg-brown"></div>
+        <div class="half block image4 cover"></div>
+      </div>
+
+      <div class="half block image2 cover">
+        <p>We'll eventually get to Text</p>
+      </div>
+
+      <div class="half block">
+        <div class="quarter block image1 cover"></div>
+        <div class="quarter block image2"></div>
+        <div class="quarter block image3 cover"></div>
+        <div class="quarter block image4"></div>
+        <div class="quarter block image5 cover"></div>
+        <div class="quarter block image6"></div>
+        <div class="quarter block image7 cover"></div>
+        <div class="quarter block image8"></div>
+        <div class="quarter block image9 cover"></div>
+        <div class="quarter block image10"></div>
+        <div class="quarter block image11 cover"></div>
+        <div class="quarter block image12"></div>
+        <div class="quarter block image1"></div>
+        <div class="quarter block image2 cover"></div>
+        <div class="quarter block image3"></div>
+        <div class="quarter block image4 cover"></div>
+      </div>
+
+      <div class="half block image12 cover"></div>
+
+      <div class="quarter block image1 cover"></div>
+      <div class="quarter block image2 cover"></div>
+      <div class="quarter block image3 cover"></div>
+      <div class="quarter block image4 cover"></div>
+      <div class="half block image5 cover"></div>
+      <div class="quarter block image6 cover"></div>
+      <div class="quarter block image7 cover"></div>
+      <div class="quarter block image8 cover"></div>
+      <div class="quarter block image9 cover"></div>
+      <div class="quarter block">
+        <div class="half block bg-pink"></div>
+        <div class="half block bg-red"></div>
+        <div class="half block bg-orange"></div>
+        <div class="half block bg-yellow"></div>
+        <div class="half block bg-green"></div>
+        <div class="half block bg-blue"></div>
+        <div class="half block bg-purple"></div>
+        <div class="half block bg-gray"></div>
+        <div class="half block bg-darkgray"></div>
+        <div class="half block bg-lightgray"></div>
+        <div class="half block bg-green"></div>
+        <div class="half block bg-blue"></div>
+      </div>
+      <div class="three-quarter block image10 cover"></div>
+      <div class="quarter block image12 cover"></div>
+      <div class="quarter block image1 cover"></div>
+      <div class="quarter block image2 cover"></div>
+      <div class="quarter block image3 cover"></div>
+
+      <div>
+        <div class="quarter block bg-pink"></div>
+        <div class="quarter block bg-red"></div>
+        <div class="quarter block bg-orange"></div>
+        <div class="quarter block bg-yellow"></div>
+        <div class="third block bg-green"></div>
+        <div class="third block bg-blue"></div>
+        <div class="third block bg-purple"></div>
+        <div class="half block bg-gray"></div>
+        <div class="half block bg-darkgray"></div>
+        <div class="block bg-lightgray">
+          <p>We'll eventually get to Text</p>
+        </div>
+      </div>
+
+    </div>
+
+  </body>
+
+</html>
