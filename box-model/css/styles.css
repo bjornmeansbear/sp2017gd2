@@ -13,6 +13,9 @@ article.fat {
   padding: 100px 0;
   border-top: 1px solid black;
 }
+article.fat:first-child {
+  border-top: none;
+}
 
 /* »»»»»»»»»»»»»»»»»»»»»»»» */
 
@@ -97,4 +100,3 @@ img {
   max-width: 100%;
   height: auto;
 }
-

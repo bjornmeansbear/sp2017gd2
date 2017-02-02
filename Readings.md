@@ -2,6 +2,7 @@
 
 - The Web's Grain by Frank Chimero: <http://frankchimero.com/writing/the-webs-grain/> and <https://vimeo.com/122880890>
 - Ben Pieratt talks with Lukas WinklerPrins: <http://htmloutput.risd.gd/interview-pieratt/>
+- The Myth of Invisible Design: <https://medium.com/@odannyboy/the-myth-of-invisible-design-c67d590babe9#.hu9craan5>
 - The Dao of Web Design by John Allsop: <http://alistapart.com/article/dao>
 - Jason Pamental talks with Ojus Doshi: <http://htmloutput.risd.gd/interview-pamental/>
 - House of Cards by Robin Sloan: <http://contentsmagazine.com/articles/house-of-cards/>
