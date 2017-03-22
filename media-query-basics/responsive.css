@@ -11,6 +11,13 @@ h1, p { font-size: 20px; }
   padding: 20px;
 }
 
+@media (min-width: 600px) and (max-width: 767px) {
+  body {
+    background: purple;
+    transform: rotate(-10deg);
+  }
+}
+
 /** This is for screens wider than 768px, basically, tablets and small computers **/
 /** you only need to write new styles in these media queries when you want to override or update a style from earlier in the style sheet **/
 @media (min-width: 768px) {
