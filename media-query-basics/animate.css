@@ -11,6 +11,8 @@ body {
   font-family: Helvetica, arial, sans-serif;
 }
 
+.mt1 { margin-top: 1; }
+
 .info {
   position: absolute;
   top: 2em;
@@ -30,6 +32,12 @@ h1 {
 }
 
 ul {
+  margin:0;
+  padding: 0;
+  list-style: none;
+}
+
+.widthRed {
   position: absolute;
   bottom:0;
   left:0;
@@ -37,7 +45,7 @@ ul {
   height: 1em;
 }
 
-ul li {
+.widthRed li {
   position: absolute;
   bottom:-3em;
 }
