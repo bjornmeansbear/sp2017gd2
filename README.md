@@ -58,7 +58,7 @@ I'd love to have 14 of these if we can -- try to have 1 mini project for every c
   - how to see systems?
   - again, don't quite know what a "wireframe game" is yet, but a place to start pondering...
 
-7. :Hover (general interatcions? +scroll?, +clicking?)
+7. :Hover (general interactions? +scroll?, +clicking?)
 
   - there is so much this could do probably...
   - totally change what's there, reveal extra content, think about the ways this affects interactions?
