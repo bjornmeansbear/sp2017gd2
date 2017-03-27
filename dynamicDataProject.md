@@ -90,7 +90,7 @@ We will focus on the Behance API for our class demos as it is a nice way to star
 
 »»»»»»»»»»»»»»
 
-Other links:
+### Other links:
 
 - <http://viewportsizes.com/>
 - <https://philipwalton.github.io/solved-by-flexbox/>
