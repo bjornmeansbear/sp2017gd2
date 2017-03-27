@@ -48,8 +48,8 @@ We will focus on the Behance API for our class demos as it is a nice way to star
 - intro to [Behance-Kit code](http://behance.ookb.co/)
 - pure content lecture
 - float grid? flex box grid?
-- _homework:_ Dao of Webdesign reading
-- _homework:_ get some projects on behance please...
+- _homework:_ Please read [A Dao of Web Design by John Allsopp](https://alistapart.com/article/dao)
+- _homework:_ Please get some projects on behance ...
 - _homework:_ do some research: find portfolios (or sites in general) that you think have interesting grids, layouts, etc. Think about patterns for showing certain kinds of content.
 
 #### 04/03
@@ -58,7 +58,7 @@ We will focus on the Behance API for our class demos as it is a nice way to star
 - mobile/responsive menu pattern
 - wireframing (figma?)
 - more Behance-Kit code
-- _homework:_ Read Sol Lewitt's Paragraphs on Conceptual Art (extra credit, take sol lewitt essay and make it more readable (max width? better typefaces?))
+- _homework:_ Please read [Sol Lewitt's Paragraphs on Conceptual Art](http://emerald.tufts.edu/programs/mma/fah188/sol_lewitt/paragraphs%20on%20conceptual%20art.htm) (extra credit, take sol lewitt's essay and make it more readable (max width? better typefaces?))
 - _homework:_ Based on what's available to you w/ behance and our tools we've looked at, come up with some site designs and basic wireframes for next week.
 
 #### 04/10
@@ -67,18 +67,22 @@ We will focus on the Behance API for our class demos as it is a nice way to star
 - what's your plan? (discuss)
 - demo tbd???
 - mostly a workday
-- _homework:_ read Pieratt interview
+- _homework:_ Please read [Ben Pieratt talks with Lukas WinklerPrins](http://htmloutput.risd.gd/interview-pieratt/)
+- _homework:_ Make progress on website
 
 #### 04/17
 
 - more Behance-Kit code
 - mostly a workday
 - Present work so far
-- _homework:_ read Jason Pamental interview
+- _homework:_ Please read [Jason Pamental talks with Ojus Doshi](http://htmloutput.risd.gd/interview-pamental/)
+- _homework:_ Make progress on website
 
 #### 04/24
 
 - mostly a workday
+- _homework:_ Make progress on website
+- _homework:_ Turn in site files by 7pm Apr 30
 
 #### 05/01
 
@@ -86,6 +90,7 @@ We will focus on the Behance API for our class demos as it is a nice way to star
 
 »»»»»»»»»»»»»»
 
-A Dao of Web Design by John Allsopp <https://alistapart.com/article/dao> Paragraphs on Conceptual Art: <http://emerald.tufts.edu/programs/mma/fah188/sol_lewitt/paragraphs%20on%20conceptual%20art.htm> Ben Pieratt talks with Lukas WinklerPrins: <http://htmloutput.risd.gd/interview-pieratt/> Jason Pamental talks with Ojus Doshi: <http://htmloutput.risd.gd/interview-pamental/>
+Other links:
 
-<http://viewportsizes.com/> <https://philipwalton.github.io/solved-by-flexbox/>
+- <http://viewportsizes.com/>
+- <https://philipwalton.github.io/solved-by-flexbox/>
