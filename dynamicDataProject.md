@@ -93,6 +93,7 @@ We will focus on the Behance API for our class demos as it is a nice way to star
 
 ### Other links:
 
+- <https://www.w3schools.com/css/css_rwd_viewport.asp>
 - <http://viewportsizes.com/>
 - <https://philipwalton.github.io/solved-by-flexbox/>
 - <http://www.jquery.com/>
