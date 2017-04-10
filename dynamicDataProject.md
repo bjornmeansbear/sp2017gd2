@@ -93,10 +93,15 @@ We will focus on the Behance API for our class demos as it is a nice way to star
 
 ### Other links:
 
-- <https://www.w3schools.com/css/css_rwd_viewport.asp>
+- Viewport Meta Tag: <https://www.w3schools.com/css/css_rwd_viewport.asp>
 - <http://viewportsizes.com/>
 - <https://philipwalton.github.io/solved-by-flexbox/>
 - <http://www.jquery.com/>
 - <http://api.jquery.com/>
 - <http://htmlarrows.com/>
 - <http://fontawesome.io/>
+- Responsive Web Design by Ethan Marcotte <https://alistapart.com/article/responsive-web-design>
+- <https://css-tricks.com/snippets/css/a-guide-to-flexbox/>
+- <http://www.sketchingwithcss.com/samplechapter/cheatsheet.html>
+- CSS Floats 101 <https://alistapart.com/article/css-floats-101>
+- All about Floats <https://css-tricks.com/all-about-floats/>
