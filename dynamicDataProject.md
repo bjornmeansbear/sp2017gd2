@@ -95,3 +95,7 @@ We will focus on the Behance API for our class demos as it is a nice way to star
 
 - <http://viewportsizes.com/>
 - <https://philipwalton.github.io/solved-by-flexbox/>
+- <http://www.jquery.com/>
+- <http://api.jquery.com/>
+- <http://htmlarrows.com/>
+- <http://fontawesome.io/>
