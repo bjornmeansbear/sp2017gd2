@@ -47,7 +47,7 @@ We will focus on the Behance API for our class demos as it is a nice way to star
 
 - intro to [Behance-Kit code](http://behance.ookb.co/)
 - pure content lecture
-- float grid? flex box grid?
+- [float based column grid](http://codepen.io/bjornmeansbear/pen/eZrgve)
 - _homework:_ Please read [A Dao of Web Design by John Allsopp](https://alistapart.com/article/dao)
 - _homework:_ Please get some projects on behance ...
 - _homework:_ do some research: find portfolios (or sites in general) that you think have interesting grids, layouts, etc. Think about patterns for showing certain kinds of content.
@@ -55,24 +55,24 @@ We will focus on the Behance API for our class demos as it is a nice way to star
 #### 04/03
 
 - general web design process lecture
-- mobile/responsive menu pattern
+- [float based column grid](http://codepen.io/bjornmeansbear/pen/eZrgve)
 - wireframing (figma?)
-- more Behance-Kit code
+- more [Behance-Kit code](https://github.com/OOKB/behance-demo)
 - _homework:_ Please read [Sol Lewitt's Paragraphs on Conceptual Art](http://emerald.tufts.edu/programs/mma/fah188/sol_lewitt/paragraphs%20on%20conceptual%20art.htm) (extra credit, take sol lewitt's essay and make it more readable (max width? better typefaces?))
 - _homework:_ Based on what's available to you w/ behance and our tools we've looked at, come up with some site designs and basic wireframes for next week.
 
 #### 04/10
 
-- more Behance-Kit code
+- [mobile/responsive menu pattern](http://codepen.io/bjornmeansbear/pen/EjbRde)
+- more [Behance-Kit code](https://github.com/OOKB/behance-demo)
 - what's your plan? (discuss)
-- demo tbd???
 - mostly a workday
 - _homework:_ Please read [Ben Pieratt talks with Lukas WinklerPrins](http://htmloutput.risd.gd/interview-pieratt/)
 - _homework:_ Make progress on website
 
 #### 04/17
 
-- more Behance-Kit code
+- more [Behance-Kit code](https://github.com/OOKB/behance-demo)
 - mostly a workday
 - Present work so far
 - _homework:_ Please read [Jason Pamental talks with Ojus Doshi](http://htmloutput.risd.gd/interview-pamental/)
@@ -80,6 +80,7 @@ We will focus on the Behance API for our class demos as it is a nice way to star
 
 #### 04/24
 
+- more [Behance-Kit code](https://github.com/OOKB/behance-demo)
 - mostly a workday
 - _homework:_ Make progress on website
 - _homework:_ Turn in site files by 7pm Apr 30
